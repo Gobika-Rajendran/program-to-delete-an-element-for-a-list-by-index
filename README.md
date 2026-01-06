@@ -1,0 +1,1 @@
+# program-to-delete-an-element-for-a-list-by-index
